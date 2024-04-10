@@ -56,6 +56,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/whizzy23/whizzy23/output/snake.svg" alt="Snake animation" />
 
-###
+![Snake animation](https://github.com/whizzy23/whizzy23/blob/output/github-contribution-grid-snake.svg)
