@@ -10,15 +10,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whizzy23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whizzy23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whizzy23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="contribution and streak" />
-</div>
-
-###
-
 <img align="right" height="150" src="dev.png"  />
 
 ###
@@ -56,7 +47,15 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=whizzy23&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whizzy23&show_icons=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whizzy23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="contribution and streak" />
+</div>
+
 <br clear="both">
 
 
-![Snake animation](https://github.com/whizzy23/whizzy23/blob/output/github-contribution-grid-snake.svg)
+
+<!--- ![Snake animation](https://github.com/whizzy23/whizzy23/blob/output/github-contribution-grid-snake.svg)
