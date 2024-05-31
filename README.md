@@ -1,61 +1,71 @@
-<h1 align="center">👋 Hello, I'm Pitamber!</h1>
+# Hi there, I'm Pitamber 👋 A MERN Stack Developer
 
-<p align="center">Welcome to my GitHub profile! I'm passionate about <strong>coding</strong>, <strong>design</strong>, and <strong>open-source</strong> projects. 🚀</p>
+![Profile Views](https://komarev.com/ghpvc/?username=whizzy23&color=blueviolet&style=flat&label=Profile+Views)
+## 🚀 About Me
 
-<p align="center">🌱 I'm currently learning <strong>React</strong> and <strong>MongoDB</strong> to build awesome web applications.</p>
+<img align="right" height="150" src="dev.png" alt="Developer at work" style="margin: 10px; float: right;" />
 
-<p align="center">💼 I'm open to collaborating on <strong>React projects.</p>
+- 🌱 I’m currently learning **Backend**
+- 👯 I’m looking to collaborate on **MERN Projects**
+- 🤔 I’m looking for an **Internship**
+- 📫 How to reach me: **pitamber2310@gmail.com**
 
-<p align="center">📫 Let's Connect : <a href="mailto:pitamberpaudel2003@gmail.com">Email | <a href="https://www.linkedin.com/in/pitamber023">LinkedIn</a></p>
+## 🛠️ Skills
 
-###
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=fff&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=fff&style=for-the-badge)
+![React Context](https://img.shields.io/badge/-React%20Context-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=fff&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 
-<img align="right" height="150" src="dev.png"  />
+## 📈 GitHub Stats
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=whizzy23&show_icons=true&theme=vision-friendly-dark" alt="Your GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=whizzy23&theme=vision-friendly-dark&fire=dd2727" alt="Streak Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whizzy23&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
-###
+## 🌐 Connect with Me
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo"  />
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](pitamberpaudel2003@gmail.com)
 
-###
+## 🏆 GitHub Trophies
 
-<div align="left">
-  <a href="https://www.instagram.com/p.paudel23/">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <!-- <a href="">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a> -->
-  <a href="mailto:pitamberpaudel2003@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/pitamber023/">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+![trophy](https://github-profile-trophy.vercel.app/?username=whizzy23&theme=onedark)
 
-###
+## 🖼️ Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whizzy23&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whizzy23&show_icons=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whizzy23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="contribution and streak" />
-</div>
-
-<br clear="both">
-
-
-
-<!--- ![Snake animation](https://github.com/whizzy23/whizzy23/blob/output/github-contribution-grid-snake.svg)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/whizzy23/Freetle">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=whizzy23&repo=Freetle&theme=vision-friendly-dark" alt="Project 1" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/whizzy23/Weather-site">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=whizzy23&repo=Weather-site&theme=vision-friendly-dark" alt="Project 2" />
+      </a>
+    </td>
+  </tr>
+</table>
