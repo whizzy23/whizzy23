@@ -5,11 +5,14 @@
 
 <img align="right" height="150" src="dev.png" alt="Developer at work" style="margin: 10px; float: right;" />
 
-- 🌱 I’m currently learning **Backend**
-- 👯 I’m looking to collaborate on **MERN Projects**
-- 🤔 I’m looking for an **Internship**
-- 📫 How to reach me: **pitamber2310@gmail.com**
-- ⚡ Fun fact: **LMT**
+Hey there! 👋 I'm Pitamber, a passionate full-stack developer currently diving deep into React Native. I love turning ideas into real-world products and am always curious to explore new tech.
+
+- 🔭 Currently exploring React Native & mobile-first design
+- 👯 Open to collaborate on MERN stack projects
+- 🎯 Actively seeking Internship opportunities
+- 📬 Reach out: pitamber2310@gmail.com
+- ⚡ Fun fact: I switch between writing clean code and binge-watching anime like it’s a job — guess you could say I’m a full-stack otaku 😎👨‍💻
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/pitamber023)
